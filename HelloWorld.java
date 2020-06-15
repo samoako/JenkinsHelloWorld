@@ -1,5 +1,8 @@
-public class HelloWorld{
-public static void main(String[]args){
-System.out.println("____***** Hello World % welcome to Jenkins Training****");
-}
+public class HelloWorld {
+
+    public static void main(String[] args) {
+        // Prints "Hello, World" to the terminal window.
+        System.out.println("Hello, World");
+    }
+
 }
