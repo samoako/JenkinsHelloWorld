@@ -1,0 +1,13 @@
+/home/samuelamoako/.jenkins/secrets/initialAdminPassword  ---------------> Admin Password Path
+Password: 69b5f3de987b4797a4d58794fac6e0db
+http://localhost:8181/ -----> Jenkins URL
+Username: Admin
+Password: Admin
+
+
+
+
+
+test
+url: localhost:8080/job/HelloWorld/build?token=3872tr78g387rh87x3tr493r934r9347r
+Authentication token: 3872tr78g387rh87x3tr493r934r9347r
